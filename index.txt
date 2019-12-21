@@ -4,3 +4,4 @@ Hello Git the secand day lab on git  'write in this line to git a conflict with 
 make the secand modifay in the same file
 
 sacand add in file
+this is another new feature.
