@@ -1,4 +1,5 @@
-Hello Git the secand day lab on git
+Hello Git the secand day lab on git  'write in this line to git a conflict with master
+'
 
 make the secand modifay in the same file
 
